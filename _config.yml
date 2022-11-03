@@ -1,5 +1,5 @@
 # Site
-repository: seungjohan/seungjohan.github.io/korea
+repository: seungjohan/korea
 # favicon: images/favicon.ico
 
 # Personal info
@@ -45,14 +45,16 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>테스트 코드</mark> 작성을 당연하게 생각하여 전 직장 시스템의 경우 2500개의 테스트 케이스가 하루에도 수십번 수행되기도 했습니다.
   현재는 팀의 비지니스 속도와 기술 부채를 조율하면서 서비스 성장을 지원하고 있습니다.
 
-# Projects Section
-# projects_title: Projects
-
 # Experience Section
-# experience_title: Experience
+experience_title: Experience
 
 # Education Section
-# educaton_title: Education
+educaton_title: Education
+
+
+# Projects Section
+projects_title: Projects
+
 
 # More Section
 # more_title: A Little More About Me
