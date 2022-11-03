@@ -1,28 +1,21 @@
 - layout: left
-  name: Backend
+  name: Software
   description: | # this will include new lines to allow paragraphs
-    * Java, Groovy, NodeJS (TypeScript),
-    * NestJS, Spring Boot, Spring MVC, Spring Batch, Spring Security, Spring Data JPA/Redis, Spring Cloud AWS
-    * TypeORM, JPA, Querydsl, Hibernate
-    * Jest, Supertest, Junit4/5, Mockito, Spock
-    * Gradle, Maven
-    * IntelliJ, WebStorm, Visual Studio Code
+    * Python | C | SQL | HTML5 | CSS | JavaScript
+    * Git | Django | MySQL | AWS Beanstalk | EC2 | S3 | Docker | Node.js
 - layout: left
-  name: DevOps
+  name: Analytics and Design
   description: | # this will include new lines to allow paragraphs
-    * MySQL, MariaDB, PostgreSQL
-    * Jenkins, TravisCI, AWS Code Deploy
-    * AWS Beanstalk, AWS SQS, Elastic Cache (Redis), RDS (Aurora), S3, EC2, Cloud Watch
-    * Nginx, Tomcat
-    * Pinpoint, Ngrinder
-    * Linux Centos
+    * Linear Algebra | Calculus | Statistics | Numerical Analysis
+    * Business Development and Strategy | Customer Development | Marketing
+    * Prototype Design | AdobeXD | Pigma | Protopie
 - layout: left
-  name: Frontend
+  name: Languages
   description: | # this will include new lines to allow paragraphs
-    * ES6
-    * Npm, Grunt, Webpack
-    * Handlebars, Lodash
-    * Backbone
+    * 한국어(Native)
+    * 영어(B2)
+    * 스페인어(A1)
+    
 
   
 

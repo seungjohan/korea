@@ -13,7 +13,7 @@ linkedin_username: seungjohan
 # twitter_username: konnellwaldron
 github_username:  seungjohan
 # dribbble_username: jekyll
-facebook_username: hhieut
+# facebook_username: hhieut
 # flickr_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -21,7 +21,7 @@ facebook_username: hhieut
 # Additional icon links
 additional_links:
 - title: medium
-  icon: "fa-brands fa-medium" # Change Medium logo to "fa-brands fa-medium" later
+  icon: "fab fa-medium" # Change Medium logo to "fa-brands fa-medium" later
   url: https://medium.com/failurestories
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)

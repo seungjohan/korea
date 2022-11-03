@@ -1,7 +1,7 @@
 - layout: left
   name: 중앙대학교
   dates: 2016.03 ~ 2022.06
-  # link: https://github.com/jojoldu/fastcampus-aws-workshop
+  link: Seoul, South Korea
   quote: >
     B.S. 수학과, 소프트웨어벤처학(소프트웨어, 창업학, 경영학)
   description: | # this will include new lines to allow paragraphs
@@ -10,7 +10,7 @@
 - layout: left
   name: Northeastern University
   dates: 2019.04 ~ 2019.06
-  link: https://jojoldu.tistory.com/162
+  link: Seoul, South Korea
   quote: >
     국제교류 프로그램
   description: | # this will include new lines to allow paragraphs
