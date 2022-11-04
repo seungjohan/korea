@@ -1,15 +1,16 @@
 # Site
 repository: seungjohan/korea
-# favicon: images/favicon.ico
+favicon: images/favicon.ico
 
 # Personal info
 name: 한승조
 title: Junior Product Manger
 email: seungjohan.kr@gmail.com
-# website: https://jojoldu.tistory.com
+website: https://seungjohan.github.io
 
 # Social links
 linkedin_username: seungjohan
+
 # twitter_username: konnellwaldron
 github_username:  seungjohan
 # dribbble_username: jekyll
@@ -23,6 +24,10 @@ additional_links:
 - title: medium
   icon: "fab fa-medium" # Change Medium logo to "fa-brands fa-medium" later
   url: https://medium.com/failurestories
+  additional_links:
+- title: brunch
+  icon: "fab fa-blogger" # Change Medium logo to "fa-brands fa-medium" later
+  url: https://brunch.co.kr/@hieut
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -44,7 +49,6 @@ experience_title: Experience
 
 # Education Section
 educaton_title: Education
-
 
 # Projects Section
 projects_title: Projects
