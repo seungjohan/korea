@@ -7,6 +7,10 @@ name: 한승조
 title: Junior Product Manger
 email: seungjohan.kr@gmail.com
 website: https://seungjohan.github.io
+website_title: ENG resume
+
+phone: +82 010-9908-6439
+
 
 # Social links
 linkedin_username: seungjohan
@@ -43,6 +47,10 @@ about_content: | # this will include new lines to allow paragraphs
   xtrabackup, pt-online-schema-change, MHA를 활용한 MySQL 운영, Ansible을 이용한 IDC 인프라 운영을 해오기도 했습니다.<br/>
   <mark>테스트 코드</mark> 작성을 당연하게 생각하여 전 직장 시스템의 경우 2500개의 테스트 케이스가 하루에도 수십번 수행되기도 했습니다.
   현재는 팀의 비지니스 속도와 기술 부채를 조율하면서 서비스 성장을 지원하고 있습니다.
+
+  I try constantly to challenge myself.<br/>
+  Experiences in business, software engineering, communication, and leadership have enabled me to become the professional I am today.<br/>
+  My main goal is to leave my mark in line with my personal ideas, drawing on my past experiences to promote the ongoing expansion of innovation in the company.
 
 # Experience Section
 experience_title: Experience
