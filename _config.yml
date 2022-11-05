@@ -6,9 +6,8 @@ favicon: images/favicon.ico
 name: 한승조
 title: Junior Product Manger
 email: seungjohan.kr@gmail.com
-website: https://seungjohan.github.io
+website: https://seungjohan.github.io/global
 website_title: ENG resume
-
 phone: +82 010-9908-6439
 
 
@@ -38,7 +37,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: "images/profile.jpg"
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요. 저는 올라운더로 수학, 소프트웨어, 경영을 하는 주니어 프로덕트 매니저입니다.
   **누적 학습수 1500만건**의 에듀테크, **MAU 1,300만/일 주문 300만 커머스**, **일 PV 2,000만 포탈** 등의 서비스에서 API/Batch 개발 및 AWS 인프라 구축 등을 해왔습니다.<br/>
@@ -68,9 +67,9 @@ relevantactivities_title: Relevant Activities
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  여러 주제로 발표와 기고, 출판을 해왔습니다.
-   - [우아콘2020 - 수십억건에서 Querydsl 사용하기](https://www.youtube.com/watch?v=zMAX7g6rO_Y)
-   - [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://jojoldu.tistory.com/463)
+   - [SWUNIV Interview - Representative of Chung-Ang University](https://www.swuniv.kr/540522002/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=11283510&t=board)
+   - ['Try Everything' Contest - Presentation at Final Stage](https://www.youtube.com/watch?v=mSL0u0BzCFI)
+   - [Interview - Dokdo Security Guard](https://www.youtube.com/watch?v=gNynVJSoEmk)
   
 # Footer
 footer_show_references: true
