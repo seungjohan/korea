@@ -1,6 +1,7 @@
 - layout: top-middle
   name: Connect To
-  link: 
+  link:
+  dates: Current
   quote: >
     Current
   description: | # this will include new lines to allow paragraphs
@@ -11,17 +12,17 @@
 - layout: top-middle
   name: Busking Town
   link:
-  quote: >
+  dates: 2022.09.10
+  quote: > 
+    아티스트와 리스너 간의 소통이 자유로운 홍대 지역자원을 활용한 메타버스 온라인 버스킹 플랫폼.
   description: | # this will include new lines to allow paragraphs
     * 인프런 RDS -> Aurora 마이그레이션 (2021.06.01 ~ 2021.06.20)
-    * [배달의 민족 정산 시스템 AWS 마이그레이션](https://www.youtube.com/watch?v=3ynQeAZpk4Y) (2020.06.01 ~ 2020.11.20)
     * [배달의 민족 주문 시스템 개편](https://jojoldu.tistory.com/373) (2018.08.01 ~ 2018.10.31)
-    * [배달의 민족 포인트 시스템 개편](http://bit.ly/2EcIXIA) (2018.04.01 ~ 2018.07.31)
-    * [배달의 민족 정산 시스템 개편](http://bit.ly/2ksIEQB) (2017.01.01 ~ 2017.08.17)
 
 - layout: top-middle
   name: BEUS
   link:
+  dates: 2019
   quote: >
   description: | # this will include new lines to allow paragraphs
     * 인프런 PostgreSQL SlowQuery 전체 튜닝
