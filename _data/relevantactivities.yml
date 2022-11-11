@@ -1,7 +1,7 @@
 - layout: left
   name: 멋쟁이사자처럼
   dates: 2020.03 ~ 2020.12
-  link: https://jojoldu.tistory.com/
+  link: https://www.likelion.net
   quote: >
     프로그래밍 교육을 통한 웹기반 서비스 및 아이디어 개발을 지원하는 소프트웨어 교육단체
   description: | # this will include new lines to allow paragraphs
@@ -10,6 +10,7 @@
     * Related Courses: Django, HTML5, CSS, JavaScript, AWS, Node.js, UX•UI, AdobeXd, Figma
 - layout: left
   name: ‘LINC+ 캡스톤 디자인’, ‘다빈치 SW•AI Tech Fair’
+  dates: 2019, 2020
   link: 
   quote: >
     중앙대 주관 교내 소프트웨어 및 창업분야 대회
@@ -18,7 +19,8 @@
     * 캡스톤 디자인 창업 부문 최우수상, SW•AI Tech Fair 장려상 수상.
 - layout: left
   name: 5th Global innovator Festa 
-  link: 
+  link: https://www.gifesta.kr
+  dates: Sep 2019 - Nov 2019
   quote: >
     글로벌 스타트업 해커톤 페스티벌
   description: | # this will include new lines to allow paragraphs
@@ -26,7 +28,8 @@
     * Global Challenger Award 수상
 - layout: left
   name: Jeju Entrepreneurship DIGITAL NOMAD 100hours Work Marathon
-  link: 
+  link: https://www.instagram.com/p/B0Hn_BrH-0k/?igshid=YmMyMTA2M2Y=
+  dates: Jun 2019 - Jul 2019
   quote: >
     Entrepreneurship Program, Work Marathon
   description: | # this will include new lines to allow paragraphs
