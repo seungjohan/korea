@@ -7,9 +7,6 @@
   description: | # this will include new lines to allow paragraphs
     * 채용, 모임, 스터디 등 다양한 분야의 니즈를 대상으로 고객인터뷰 50+ 진행 중.
     * 머신러닝 그래프이론 학습 중.
-    
-
-
 - layout: top-middle
   name: Busking Town
   link: https://seungjohan.notion.site/Busking-Town-65071af5ac4044f1b8bfb9f89a3f8ff9
@@ -20,7 +17,14 @@
     * 고객인터뷰 100+ 진행을 바탕으로 메타버스(게더타운) 프로토타입 개발 및 MVP테스트 1회 진행
     * LINC+ 캡스톤 디자인 창업부문 최우수상 수상
     * [게더타운 프로토타입](https://app.gather.town/app/ORnrS2mURQotPDXG/HONGDAE%20BUSKING)
-
+- layout: top-middle
+  name: LITER(리터)
+  link: https://drive.google.com/file/d/1rKW2ghDVrssIQyCRxliaR4swfmdpgETu/view?usp=sharing
+  quote: >
+    소규모 카페 포인트 통합 솔루션, 여러 카페의 포인트 쿠폰, 지갑을 하나로
+  description: | # this will include new lines to allow paragraphs
+    * 소상공인이 운영하는 소규모 카페마다 고객에게 제공하는 포인트 및 쿠폰을 하나로 통합한 장소제약을 없앤 공유경제형 카페 포인트 통합솔루션
+    * [Try Everything](https://tryeverything.or.kr) 2020 전 국민 창업오디션 결승진출
 - layout: top-middle
   name: BEUS
   link: https://seungjohan.notion.site/Travel-CP-Content-Provider-77eae3e646594fa9881f9c82c5a9d906
