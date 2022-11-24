@@ -20,8 +20,9 @@
 - layout: top-middle
   name: LITER(리터)
   link: https://drive.google.com/file/d/1rKW2ghDVrssIQyCRxliaR4swfmdpgETu/view?usp=sharing
+  dates: 2020.06 - 2020.09
   quote: >
-    소규모 카페 포인트 통합 솔루션, 여러 카페의 포인트 쿠폰, 지갑을 하나로
+    소규모 카페 포인트 통합 솔루션. 여러 카페의 포인트 쿠폰, 지갑을 하나로
   description: | # this will include new lines to allow paragraphs
     * 소상공인이 운영하는 소규모 카페마다 고객에게 제공하는 포인트 및 쿠폰을 하나로 통합한 장소제약을 없앤 공유경제형 카페 포인트 통합솔루션
     * [Try Everything](https://tryeverything.or.kr) 2020 전 국민 창업오디션 결승진출
