@@ -8,6 +8,7 @@
 - Email: seungjohan.kr@gmail.com
 - GitHub: [github.com/seungjohan](https://github.com/seungjohan)
 - LinkedIn: [linkedin.com/in/seungjohan](https://linkedin.com/in/seungjohan)
+- Resume page: [seungjohan.github.io/korea](https://seungjohan.github.io/korea)
 
 ### References
 * [Template](https://github.com/sproogen/modern-resume-theme)
