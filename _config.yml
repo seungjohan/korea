@@ -39,8 +39,8 @@ additional_links:
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 gtm: "GTM-N6P27C6"
-gtag: "UA-261326647-1"
-google_analytics: "G-62XKM5BFEP"
+gtag: "G-62XKM5BFEP"
+google_analytics: "UA-261326647-1"
 
 # About Section
 # about_title: About Me
