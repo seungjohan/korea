@@ -39,7 +39,7 @@ additional_links:
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 gtm: "GTM-N6P27C6"
-gtag: "G-62XKM5BFEP"
+gtag: "G-62XKM5BFEP" # 4 proporties G-QX83VERWK9
 google_analytics: "UA-261326647-1"
 
 # About Section
