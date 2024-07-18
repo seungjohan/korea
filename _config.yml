@@ -11,12 +11,11 @@ website: https://seungjohan.github.io/global
 website_title: ENG resume
 phone: +82 10-9908-6439
 
-
 # Social links
 linkedin_username: seungjohan
 
-# twitter_username: konnellwaldron
-github_username:  seungjohan
+# twitter_username: konnellkelly
+github_username: seungjohan
 # dribbble_username: jekyll
 # facebook_username: hhieut
 # flickr_username: jekyll
@@ -25,13 +24,13 @@ github_username:  seungjohan
 
 # Additional icon links
 additional_links:
-- title: medium
-  icon: "fab fa-medium" # Change Medium logo to "fa-brands fa-medium" later
-  url: https://konnellwaldron.medium.com/
-  additional_links:
-- title: brunch
-  icon: "fab fa-blogger" # Change Medium logo to "fa-brands fa-medium" later
-  url: https://brunch.co.kr/@konnellwaldron
+  - title: medium
+    icon: "fab fa-medium" # Change Medium logo to "fa-brands fa-medium" later
+    url: https://konnellkelly.medium.com/
+    additional_links:
+  - title: brunch
+    icon: "fab fa-blogger" # Change Medium logo to "fa-brands fa-medium" later
+    url: https://brunch.co.kr/@konnellkelly
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -63,15 +62,13 @@ projects_title: Projects
 # Projects Section
 relevantactivities_title: Relevant Activities
 
-
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-   - [SWUNIV Interview - Representative of Chung-Ang University](https://www.swuniv.kr/540522002/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=11283510&t=board)
-   - [Interview - Dokdo Security Guard](https://www.youtube.com/watch?v=gNynVJSoEmk)
-   - ['Try Everything' Contest - Presentation at Final Stage](https://www.youtube.com/watch?v=mSL0u0BzCFI)
+  - [SWUNIV Interview - Representative of Chung-Ang University](https://www.swuniv.kr/540522002/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=11283510&t=board)
+  - [Interview - Dokdo Security Guard](https://www.youtube.com/watch?v=gNynVJSoEmk)
+  - ['Try Everything' Contest - Presentation at Final Stage](https://www.youtube.com/watch?v=mSL0u0BzCFI)
 
-  
 # Footer
 footer_show_references: true
 
@@ -84,4 +81,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
